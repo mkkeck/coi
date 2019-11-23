@@ -9,5 +9,5 @@ COI is a fork of "[Klaro!](https://github.com/KIProtect/klaro)", a great,
 free and open consent manager.
 
 **NOTE:** it's Work in Progress, not yet released.
-You can fork/download https://github.com/mkkeck/coi/branches/klaro with
+You can fork/download https://github.com/mkkeck/coi/tree/klaro with
 my modifications
